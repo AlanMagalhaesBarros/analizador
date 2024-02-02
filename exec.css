@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background:rgb(144, 0, 255);
+  font: normal 15pt Arial;
+ 
+}
+h1{
+  text-align: center;
+}
+
+header{
+  color: white;
+  text-align: center;
+}
+div#dados{
+  
+  position: relative;
+  background: white;
+  border-radius: 10px;
+  padding: 15px;
+  width: 500px;
+  margin: auto;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.579);
+}
+footer{
+  color: white;
+  text-align: center;
+  font-style: italic;
+}
+div#res{
+  font-size: 9pt;
+}
